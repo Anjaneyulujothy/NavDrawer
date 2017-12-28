@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/ashok"
+        
+        android:title="Ashok"/>
+    <item
+        android:id="@+id/anji"
+        android:title="Anjaneyulu" />
+    <item android:id="@+id/ram"
+        android:title="Ram"/>
+    <item android:id="@+id/chinna"
+        android:title="chinna"/>
+
+</menu>
